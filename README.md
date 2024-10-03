@@ -5,7 +5,7 @@
 <p align="left"> 
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-23-blue" />
+<img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Python-brightgreen" />
   <img src="https://img.shields.io/badge/live%3A-Colombia-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Español-brightgreen" />
@@ -17,8 +17,8 @@
 
 <p align="center">
   <em>
-    Hello, I am a computer systems technician and I am studying information engineering, I am currently in the last semester of the <b>Aunar</b> degree, <br>
-    I am <b>passionate about self-learning</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and I read books on personal growth, development from the back side calls me
+    Hello, I am a computer systems technician and I am studying informatic engineering, I am currently in the last semester of the <b>Aunar</b> degree, <br>
+    I am <b>passionate about self-learning</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and I read books on personal growth, development from backend calls me
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">, <br>
     although the front too, I'm obsessed with sunsets like silver and I like to ride a motorcycle to go on trips :bike:
   </em> 
