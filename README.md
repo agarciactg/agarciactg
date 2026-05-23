@@ -1,66 +1,125 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/Backend-Python%20%26%20Node.js-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-LLM%20Integrations-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%26%20Next.js-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Colombia-success?style=for-the-badge" />
 </p>
-<br>
 
-<p align="left"> 
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-Python-brightgreen" />
-  <img src="https://img.shields.io/badge/live%3A-Colombia-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Español-brightgreen" />
-</p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Andrés García </h1>
-<h3 align="center"> Developer Backend </h3>
-<p align="center">
+
+<h1 align="center">
+  Hi 👋, I'm Andrés García
+</h1>
+
+<h3 align="center">
+  Full Stack Developer • Backend Specialist • AI & LLM Integrations
+</h3>
+
+<br>
 
 <p align="center">
   <em>
-    Hello, I am a computer systems technician and I am studying informatic engineering, I am currently in the last semester of the <b>Aunar</b> degree, <br>
-    I am <b>passionate about self-learning</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and I read books on personal growth, development from backend calls me
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">, <br>
-    although the front too, I'm obsessed with sunsets like silver and I like to ride a motorcycle to go on trips :bike:
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "What the mind can conceive and belive. the mind can achive!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+    Full Stack Developer with <b>5+ years of experience</b> building scalable, secure, and high-performance applications.  
+    Specialized in backend development using <b>Python</b> and <b>Node.js</b>, focused on APIs, microservices, and cloud-ready systems.
+    <br><br>
+
+    Passionate about <b>Artificial Intelligence</b>, workflow automation, and modern developer tools.  
+    Experienced integrating <b>LLMs</b> such as OpenAI and Anthropic into real-world products.
+  </em>
 </p>
+
+<br>
+
+<img align="right" width="280px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+&nbsp;<b><i>About Me</i></b>
+
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+✔ Backend & Full Stack Developer from Colombia 🇨🇴 <br>
+✔ Specialized in scalable APIs and microservices ⚙️ <br>
+✔ Experience with AI integrations and RAG workflows 🧠 <br>
+✔ Working with Python, FastAPI, Django, Node.js & TypeScript 🚀 <br>
+✔ Frontend experience using React & Next.js 💻 <br>
+✔ Docker, CI/CD, PostgreSQL and cloud-ready environments 🐳 <br>
+✔ Passionate about continuous learning and clean architecture 📚 <br>
+✔ Open to remote international opportunities 🌎 <br>
 
-✔ Callme: ***Androxus*** or ***Andrés***  :boy:<br>
-✔ Currently, in my free time, I am working on my degree project. :zap:<br>
-✔ I’m currently learning about **front-end technologies** :muscle: <br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds :trollface:<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
- 
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,gitlab,github,docker,django,py,postgres,postman,atom,azure,bash,bootstrap,cs,css,express,firebase,go,grafana,graphql,html,js,linux,mongodb,mysql,nodejs,prisma,react,ts,vscode,vim" />
-    </a>
-  </p>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agarciactg&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=agarciactg&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<br><br><br>
 
 <hr>
 
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<!-- <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br> --->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
- -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,ts,js,react,nextjs,postgres,mongodb,mysql,docker,azure,graphql,git,github,gitlab,linux,bash,vscode" 
+    />
+  </a>
+</p>
 
------
+<hr>
 
-Last Edited on: 12/02/2024
+<h2 align="center">🔥 Current Focus</h2>
+
+<p align="center">
+  🤖 AI & LLM Integrations <br>
+  ⚡ Backend Architectures <br>
+  🔗 API Development <br>
+  🚀 Scalable Systems <br>
+  🐳 DevOps & Automation <br>
+</p>
+
+<hr>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=agarciactg&show_icons=true&theme=tokyonight" 
+    height="180em" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarciactg&layout=compact&theme=tokyonight" 
+    height="180em" 
+  />
+</p>
+
+<hr>
+
+<h2 align="center">💼 Professional Experience</h2>
+
+<p align="center">
+  <b>IMGINESAPPS</b> — Full Stack Developer <br>
+  React • Next.js • Django • GraphQL • Docker • PostgreSQL
+</p>
+
+<p align="center">
+  <b>LSV-TECH</b> — Software Developer <br>
+  Django REST Framework • Node.js • React • PostgreSQL
+</p>
+
+<hr>
+
+<h2 align="center">📫 Contact</h2>
+
+<p align="center">
+  📧 agarciactg@gmail.com <br>
+  💼 linkedin.com/in/agarciactg <br>
+  🐙 github.com/agarciactg
+</p>
+
+<br>
+
+<p align="center">
+  <i>"Build scalable systems. Learn continuously. Ship impactful products."</i>
+</p>
+
+<hr>
+
+<p align="center">
+  Last Edited on: 23/05/2026
+</p>
